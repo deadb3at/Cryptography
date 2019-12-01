@@ -1,8 +1,7 @@
 # Caesar Cipher Algorithm
 # This .py file performs encryption and decryption on the given inputs
-# Any wrong results please inform me : deadb3at@protonmail.com
 # Enjoy...!!!
-# deadb3at, 17th July 2019, 10:00 PM IST
+# ner0, 17th July 2019, 10:00 PM IST
 
 
 def encrypt(text,key):
